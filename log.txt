@@ -16,3 +16,5 @@
 2024-05-20T12:16:51.554Z  /documentation 
 2024-05-20T12:16:52.579Z  /favicon.ico 
 2024-05-20T12:16:52.606Z  /fonts/Inter.woff2 
+2024-05-26T21:37:45.858Z  /documentation 
+2024-05-26T21:37:45.991Z  /favicon.ico 
