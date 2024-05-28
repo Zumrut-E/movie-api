@@ -23,7 +23,7 @@ res.json(topMovies);
 // that returns a default textual response of your choosing.
 
 app.get('/',(req,res)=>{
-    res.send("Wellcome to the movies api")
+    res.send("Welcome to the movies api")
 
 })
 
@@ -33,7 +33,7 @@ app.get('/',(req,res)=>{
 // to “localhost:[portnumber]/documentation.html”.
 //  Test that the correct file loads in your browser.
 
-app.use('/documentation.html', express.static(path.join(__dirname,'public/documentation.html')))
+app.use('/documentation.html', express.static(path.join(__dirname, 'public/documentation.html')));
 
 // Use the Morgan middleware library to log all 
 // requests (instead of using the fs module to write to a text file).
